@@ -1,0 +1,29 @@
+body {height:1000px;}
+
+.section {height: 100%;
+background-attachment: fixed;
+}
+.text {display: flex;
+       color: rgb(23, 223, 16);
+       align-items: center;
+       justify-content: center;
+}
+
+.section:nth-child(1) {
+    background-image: url(https://i.pinimg.com/474x/04/c5/b8/04c5b8c2ef5ba7cb7838f17dc7b07f70.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.section:nth-child(2) {
+    background-image: url(https://i.pinimg.com/originals/1d/f2/6d/1df26d8b0f409ec8bfea8f4e431a1cc4.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.section:nth-child(3) {
+    background-image: url(https://burst.shopifycdn.com/photos/city-lights-through-rain-window.jpg?width=1200&format=pjpg&exif=1&iptc=1);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
