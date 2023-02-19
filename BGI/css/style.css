@@ -1,7 +1,7 @@
 body {height:1000px;}
 
 .section {height: 100%;
-background-attachment: fixed;
+          background-attachment: fixed;
 }
 .text {display: flex;
        color: rgb(23, 223, 16);
